@@ -1,0 +1,7 @@
+"Sample Directory": Test patterns for the gui.
+
+"Comparison_of_test_exports": PowerPoint presentation of the exported pattern from "Sample Directory" using various conditions.
+
+"text_export.....": Various exports using the gui with conditions specified in the titles. These are plotted in "Comparison_of_test_exports" ppt file.
+
+The patterns are of an unspecified material using an unspecified x-ray synchrotron source.
